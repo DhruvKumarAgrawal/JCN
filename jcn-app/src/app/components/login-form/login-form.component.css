@@ -17,7 +17,7 @@ height: 370px;
 margin-top: 10%;
 margin-bottom: auto;
 width: 400px;
-background-color:rgb(69, 66, 255) !important;
+background-color:rgba(69, 66, 255, 0.804) !important;
 }
 
 .social_icon span{
@@ -88,5 +88,9 @@ margin-left: 4px;
 
 .card-footer
 {
-    background-color: rgb(69, 66, 255);
+    
+}
+
+a{
+    color:darkgray;
 }
